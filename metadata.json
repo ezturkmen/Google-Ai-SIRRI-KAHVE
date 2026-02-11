@@ -1,0 +1,7 @@
+{
+  "name": "Sırr-ı Kahve: Mistik Falcı",
+  "description": "Yapay zeka destekli, geleneksel Türk kahvesi falı uygulaması. Fincan fotoğraflarınızı yükleyin, sembolleri analiz edelim ve geleceğinize ışık tutalım.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
